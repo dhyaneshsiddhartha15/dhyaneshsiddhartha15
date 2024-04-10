@@ -4,7 +4,7 @@
   
 
 ## **<div align="center">
-I'm Dhyanesh Siddhartha, a MERN stack developer. I consider myself a beginner in both frontend and backend development.</div>**  
+I'm Dhyanesh Siddhartha, a MERN stack developer. .</div>**  
   
 
 -   
