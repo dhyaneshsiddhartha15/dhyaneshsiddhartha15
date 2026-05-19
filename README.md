@@ -1,19 +1,19 @@
 <div align="center">
 
-<!-- ░░░ 3D VENOM HEADER BANNER ░░░ -->
+<!-- ░░░ 3D VENOM HEADER ░░░ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:060614,30:0d1b4b,60:130a2e,100:060614&height=300&section=header&text=Dhyanesh%20Siddhartha&fontSize=54&fontColor=00d4ff&animation=fadeIn&fontAlignY=42&stroke=7c3aed&strokeWidth=2&desc=⚡%20Software%20Developer%20%7C%20Cloud%20%26%20DevOps%20%7C%20Microservices%20Architect%20⚡&descAlignY=63&descSize=14&descColor=a78bfa"/>
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:060614,30:0d1b4b,60:130a2e,100:060614&height=300&section=header&text=Dhyanesh%20Siddhartha&fontSize=54&fontColor=00d4ff&animation=fadeIn&fontAlignY=42&stroke=7c3aed&strokeWidth=2&desc=⚡%20Software%20Developer%20%7C%20Cloud%20%26%20DevOps%20%7C%20Microservices%20Architect%20⚡&descAlignY=63&descSize=14&descColor=a78bfa" alt="header"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:060614,30:0d1b4b,60:130a2e,100:060614&height=280&section=header&text=Dhyanesh%20Siddhartha&fontSize=54&fontColor=00d4ff&animation=fadeIn&fontAlignY=42&stroke=7c3aed&strokeWidth=2&desc=Software%20Developer%20%7C%20Cloud%20Native&descAlignY=63&descSize=16&descColor=a78bfa"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:060614,30:0d1b4b,60:130a2e,100:060614&height=280&section=header&text=Dhyanesh%20Siddhartha&fontSize=54&fontColor=00d4ff&animation=fadeIn&fontAlignY=42&stroke=7c3aed&strokeWidth=2&desc=Software%20Developer%20%7C%20Cloud%20Native&descAlignY=63&descSize=16&descColor=a78bfa" alt="header"/>
 </picture>
 
 <br/>
 
-<!-- ░░░ ANIMATED TYPING SVG ░░░ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=00D4FF&background=00000000&center=true&vCenter=true&random=false&width=720&height=45&lines=🚀+Building+Scalable+Systems+from+India+🇮🇳;☁️+AWS+%7C+DigitalOcean+%7C+Cloud+Native+Architecture;☸️+Kubernetes+%7C+Docker+%7C+Terraform+%7C+Jenkins;🐹+Go+%7C+Node.js+%7C+FastAPI+%7C+Microservices;🔥+console.log+debugger+%26+proud+of+it+😄)](https://git.io/typing-svg)
+<!-- ░░░ TYPING ANIMATION ░░░ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=800&color=00D4FF&center=true&vCenter=true&random=false&width=600&height=45&lines=Software+Developer+%7C+Cloud+Native;☸️+Kubernetes+%7C+Docker+%7C+Terraform;🐹+Go+%7C+Node.js+%7C+FastAPI;☁️+AWS+%7C+DigitalOcean+%7C+Jenkins;🔥+console.log+debugger+%26+proud+😄)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- ░░░ SOCIAL BADGES ░░░ -->
+<!-- ░░░ SOCIALS ░░░ -->
 <a href="https://twitter.com/dhyanesh_sidd15">
   <img src="https://img.shields.io/badge/𝕏 Twitter-00d4ff?style=for-the-badge&logo=x&logoColor=060614"/>
 </a>
@@ -28,15 +28,15 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=dhyaneshsiddhartha15&label=👁️%20Profile%20Views&color=00d4ff&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=dhyaneshsiddhartha15&label=Profile+Views&color=00d4ff&style=flat-square)
 &nbsp;
-![GitHub followers](https://img.shields.io/github/followers/dhyaneshsiddhartha15?label=🤝%20Followers&style=flat-square&color=7c3aed)
+![GitHub followers](https://img.shields.io/github/followers/dhyaneshsiddhartha15?label=Followers&style=flat-square&color=7c3aed)
 
 </div>
 
 <br/>
 
-<!-- ░░░ 3D ASCII IDENTITY CARD ░░░ -->
+<!-- ░░░ IDENTITY CARD ░░░ -->
 <div align="center">
 
 ```
@@ -44,10 +44,10 @@
 ║  ⚡  DHYANESH SIDDHARTHA  ·  SOFTWARE DEVELOPER  ·  INDIA 🇮🇳       ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║                                                                      ║
-║   📍  Noida & Dehradun          🔭  Full Stack + Cloud + DevOps     ║
-║   ☁️  AWS · DigitalOcean        ☸️  Kubernetes · Terraform          ║
-║   🐳  Docker · Jenkins          🐹  Learning Go by shipping code    ║
-║   🧠  System Design             🔥  console.log("still works") 😄   ║
+║   📍  Noida & Dehradun          ☁️  Cloud Native Architecture       ║
+║   ☸️  Kubernetes · Terraform    🐳  Docker · Jenkins                ║
+║   🐹  Learning Go by shipping   🧠  System Design Patterns          ║
+║   🔥  console.log("still works") 😄                                 ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
@@ -58,11 +58,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="26px"> &nbsp;Tech Arsenal
+## ⚡ &nbsp;Tech Arsenal
 
 <br/>
 
-### ⚡ Languages
+### 🗣️ Languages
 
 <div align="center">
 
@@ -121,7 +121,7 @@
 
 <br/>
 
-### ☁️ Cloud & DevOps
+### ☁️ Cloud & Infrastructure
 
 <div align="center">
 
@@ -155,7 +155,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 🚀 &nbsp;Currently Building & Learning
+## 🚀 &nbsp;Currently Learning
 
 <br/>
 
@@ -163,29 +163,27 @@
 
 | &nbsp; | 🔭 Domain | 📚 What I'm Mastering | 🔥 Status |
 |:---:|:---|:---|:---:|
-| ☁️ | Cloud | AWS Services & Architecture | `🟢 Active` |
+| ☁️ | Cloud | AWS Services & Architecture | `🟢 In Progress` |
 | ☸️ | Orchestration | Advanced Kubernetes & Helm Charts | `🟢 Active` |
 | 🏗️ | IaC | Terraform & Infrastructure as Code | `🟡 In Progress` |
 | 🔁 | CI/CD | Jenkins Pipelines & GitHub Actions | `🟡 In Progress` |
-| 🐹 | Language | Go — shipping real production services | `🟢 Active` |
-| 🧠 | Architecture | System Design & Cloud Native Patterns | `🟢 Active` |
+| 🐹 | Language | Go — shipping real production services | `🟢 In Progress` |
+| 🧠 | Architecture | System Design & Cloud Native Patterns | `🟢 In Progress` |
 
 </div>
 
 <br/>
 
-<!-- ░░░ SKILL PROGRESS BARS AS CODE BLOCK ░░░ -->
-
 ```
-⚡  Node.js / Express   ████████████████████  90%  ██ Expert 🌟
-⚛️  React / Angular     ██████████████████░░  85%  ██ Expert 🌟
-🐍  Python / FastAPI    ██████████████░░░░░░  70%  ██ Proficient 💪
-🐳  Docker              ████████████████░░░░  80%  ██ Comfortable 🏆
-☁️  AWS Cloud           ████████████░░░░░░░░  65%  ██ Leveling Up 🚀
-☸️  Kubernetes          ██████████░░░░░░░░░░  55%  ██ Deep Diving 🌊
-🐹  Go / Golang         ████████░░░░░░░░░░░░  40%  ██ Building Live 🔨
-🏗️  Terraform           ███████░░░░░░░░░░░░░  35%  ██ Learning IaC ⚙️
-🔁  Jenkins CI/CD       ██████░░░░░░░░░░░░░░  30%  ██ Automating 🤖
+⚡  Node.js / Express   ████████████████████  Expert 🌟
+⚛️  React / Angular     ██████████████████░░  Expert 🌟
+🐳  Docker              ████████████████░░░░  Comfortable 🏆
+🐍  Python / FastAPI    ██████████████░░░░░░  Proficient 💪
+☁️  AWS Cloud           ████████████░░░░░░░░  Leveling Up 🚀
+🐹  Go / Golang         ████░░░░░░░░░░░░░░░░  Building Live 🔨
+☸️  Kubernetes          ████░░░░░░░░░░░░░░░░  Deep Diving 🌊
+🏗️  Terraform           ██░░░░░░░░░░░░░░░░░░  Getting Started ⚙️
+🔁  Jenkins CI/CD       ██░░░░░░░░░░░░░░░░░░  Getting Started 🤖
 ```
 
 <br/>
@@ -271,30 +269,28 @@
 
 ```javascript
 const dhyanesh = {
-  name         : "Dhyanesh Siddhartha",
-  role         : "Software Developer",
-  location     : ["Noida", "Dehradun", "India 🇮🇳"],
+  name     : "Dhyanesh Siddhartha",
+  role     : "Software Developer",
+  location : ["Noida", "Dehradun", "India 🇮🇳"],
 
-  focus        : [
+  focus    : [
     "Full Stack Web Development",
     "Backend Systems & Scalable APIs",
-    "AWS Cloud & DigitalOcean Infrastructure",
-    "Microservices Architecture",
-    "DevOps & Cloud Native",
+    "Cloud Native Architecture",
+    "Microservices & Distributed Systems",
   ],
 
-  currentlyLearning : [
-    "Advanced Kubernetes Orchestration",
-    "System Design Patterns",
+  learning : [
+    "Kubernetes & Helm",
     "Terraform & IaC",
-    "Jenkins CI/CD Pipelines",
+    "Jenkins CI/CD",
     "Go — by building real things",
     "AWS Cloud Services",
+    "System Design Patterns",
   ],
 
-  superpower   : () => console.log("It works! But… why? 🤔"),
-  motto        : "Ship fast. Learn faster. Build things that scale. ⚡",
-  openTo       : ["collaborations", "open source", "hard problems"],
+  superpower : () => console.log("It works! But… why? 🤔"),
+  motto      : "Ship fast. Learn faster. Build things that scale. ⚡",
 };
 ```
 
@@ -304,7 +300,7 @@ const dhyanesh = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 🤝 &nbsp;Let's Connect & Build Together
+## 🤝 &nbsp;Let's Connect
 
 <br/>
 
