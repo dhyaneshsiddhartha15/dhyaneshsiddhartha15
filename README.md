@@ -1,19 +1,16 @@
 <div align="center">
 
-<!-- ░░░ 3D VENOM HEADER ░░░ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:060614,30:0d1b4b,60:130a2e,100:060614&height=280&section=header&text=Dhyanesh%20Siddhartha&fontSize=54&fontColor=00d4ff&animation=fadeIn&fontAlignY=42&stroke=7c3aed&strokeWidth=2&desc=Software%20Developer%20%7C%20Cloud%20Native&descAlignY=63&descSize=16&descColor=a78bfa"/>
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:060614,30:0d1b4b,60:130a2e,100:060614&height=280&section=header&text=Dhyanesh%20Siddhartha&fontSize=54&fontColor=00d4ff&animation=fadeIn&fontAlignY=42&stroke=7c3aed&strokeWidth=2&desc=Software%20Developer%20%7C%20Cloud%20Native&descAlignY=63&descSize=16&descColor=a78bfa" alt="header"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:060614,30:0d1b4b,60:130a2e,100:060614&height=260&section=header&text=Dhyanesh%20Siddhartha&fontSize=52&fontColor=00d4ff&animation=fadeIn&fontAlignY=42&stroke=7c3aed&strokeWidth=2&desc=Software%20Developer%20%7C%20Cloud%20Native%20%7C%20Docker%20%26%20Kubernetes&descAlignY=63&descSize=15&descColor=a78bfa"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:060614,30:0d1b4b,60:130a2e,100:060614&height=260&section=header&text=Dhyanesh%20Siddhartha&fontSize=52&fontColor=00d4ff&animation=fadeIn&fontAlignY=42&stroke=7c3aed&strokeWidth=2&desc=Software%20Developer%20%7C%20Cloud%20Native%20%7C%20Docker%20%26%20Kubernetes&descAlignY=63&descSize=15&descColor=a78bfa" alt="header"/>
 </picture>
 
 <br/>
 
-<!-- ░░░ TYPING ANIMATION ░░░ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=800&color=00D4FF&center=true&vCenter=true&random=false&width=600&height=45&lines=Software+Developer+%7C+Cloud+Native;☸️+Kubernetes+%7C+Docker+%7C+Terraform;🐹+Go+%7C+Node.js+%7C+FastAPI;☁️+AWS+%7C+DigitalOcean+%7C+Jenkins;🔥+console.log+debugger+%26+proud+😄)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=560&height=40&lines=Software+Developer+%7C+Cloud+Native;Docker+%7C+Kubernetes+%7C+AWS;Go+%7C+Node.js+%7C+FastAPI;console.log+debugger+%26+proud+😄)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- ░░░ SOCIALS ░░░ -->
 <a href="https://twitter.com/dhyanesh_sidd15">
   <img src="https://img.shields.io/badge/𝕏 Twitter-00d4ff?style=for-the-badge&logo=x&logoColor=060614"/>
 </a>
@@ -36,33 +33,13 @@
 
 <br/>
 
-<!-- ░░░ IDENTITY CARD ░░░ -->
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║  ⚡  DHYANESH SIDDHARTHA  ·  SOFTWARE DEVELOPER  ·  INDIA 🇮🇳       ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║   📍  Noida & Dehradun          ☁️  Cloud Native Architecture       ║
-║   ☸️  Kubernetes · Terraform    🐳  Docker · Jenkins                ║
-║   🐹  Learning Go by shipping   🧠  System Design Patterns          ║
-║   🔥  console.log("still works") 😄                                 ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## ⚡ &nbsp;Tech Arsenal
+## ⚡ Tech Stack
 
 <br/>
 
-### 🗣️ Languages
+### Languages
 
 <div align="center">
 
@@ -78,7 +55,7 @@
 
 <br/>
 
-### 🎨 Frontend
+### Frontend
 
 <div align="center">
 
@@ -95,7 +72,7 @@
 
 <br/>
 
-### ⚙️ Backend & APIs
+### Backend & APIs
 
 <div align="center">
 
@@ -108,7 +85,7 @@
 
 <br/>
 
-### 🗄️ Databases
+### Databases
 
 <div align="center">
 
@@ -121,7 +98,7 @@
 
 <br/>
 
-### ☁️ Cloud & Infrastructure
+### Cloud & Infrastructure
 
 <div align="center">
 
@@ -139,7 +116,7 @@
 
 <br/>
 
-### 🔧 Tools
+### Tools
 
 <div align="center">
 
@@ -155,42 +132,28 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 🚀 &nbsp;Currently Learning
+## 🚀 Currently Learning
 
 <br/>
 
 <div align="center">
 
-| &nbsp; | 🔭 Domain | 📚 What I'm Mastering | 🔥 Status |
-|:---:|:---|:---|:---:|
-| ☁️ | Cloud | AWS Services & Architecture | `🟢 In Progress` |
-| ☸️ | Orchestration | Advanced Kubernetes & Helm Charts | `🟢 Active` |
-| 🏗️ | IaC | Terraform & Infrastructure as Code | `🟡 In Progress` |
-| 🔁 | CI/CD | Jenkins Pipelines & GitHub Actions | `🟡 In Progress` |
-| 🐹 | Language | Go — shipping real production services | `🟢 In Progress` |
-| 🧠 | Architecture | System Design & Cloud Native Patterns | `🟢 In Progress` |
+| Domain | What I'm Working On | Status |
+|:---|:---|:---:|
+| ☁️ Cloud | AWS Services & Architecture | `In Progress` |
+| ☸️ Orchestration | Advanced Kubernetes & Helm Charts | `Active` |
+| 🏗️ IaC | Terraform & Infrastructure as Code | `In Progress` |
+| 🔁 CI/CD | Jenkins Pipelines & GitHub Actions | `In Progress` |
+| 🐹 Language | Go — shipping real production services | `In Progress` |
+| 🧠 Architecture | System Design & Cloud Native Patterns | `In Progress` |
 
 </div>
 
 <br/>
 
-```
-⚡  Node.js / Express   ████████████████████  Expert 🌟
-⚛️  React / Angular     ██████████████████░░  Expert 🌟
-🐳  Docker              ████████████████░░░░  Comfortable 🏆
-🐍  Python / FastAPI    ██████████████░░░░░░  Proficient 💪
-☁️  AWS Cloud           ████████████░░░░░░░░  Leveling Up 🚀
-🐹  Go / Golang         ████░░░░░░░░░░░░░░░░  Building Live 🔨
-☸️  Kubernetes          ████░░░░░░░░░░░░░░░░  Deep Diving 🌊
-🏗️  Terraform           ██░░░░░░░░░░░░░░░░░░  Getting Started ⚙️
-🔁  Jenkins CI/CD       ██░░░░░░░░░░░░░░░░░░  Getting Started 🤖
-```
-
-<br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 📊 &nbsp;GitHub Statistics
+## 📊 GitHub Statistics
 
 <br/>
 
@@ -199,24 +162,21 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dhyaneshsiddhartha15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060614&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true"/>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=dhyaneshsiddhartha15&show_icons=true&theme=default&hide_border=true&title_color=0d1b4b&icon_color=7c3aed&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=dhyaneshsiddhartha15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060614&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=dhyaneshsiddhartha15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060614&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </picture>
 &nbsp;
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dhyaneshsiddhartha15&layout=compact&theme=tokyonight&hide_border=true&bg_color=060614&title_color=00d4ff&text_color=c9d1d9&langs_count=8"/>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dhyaneshsiddhartha15&layout=compact&theme=default&hide_border=true&title_color=0d1b4b&langs_count=8"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhyaneshsiddhartha15&layout=compact&theme=tokyonight&hide_border=true&bg_color=060614&title_color=00d4ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhyaneshsiddhartha15&layout=compact&theme=tokyonight&hide_border=true&bg_color=060614&title_color=00d4ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 </picture>
 
-</div>
-
-<div align="center">
-<br/>
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=dhyaneshsiddhartha15&theme=tokyonight&hide_border=true&background=060614&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=a78bfa&dates=6b7280&stroke=7c3aed"/>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=dhyaneshsiddhartha15&theme=default&hide_border=true&ring=7c3aed&fire=00d4ff&currStreakLabel=0d1b4b"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhyaneshsiddhartha15&theme=tokyonight&hide_border=true&background=060614&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=a78bfa&dates=6b7280&stroke=7c3aed" width="58%" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhyaneshsiddhartha15&theme=tokyonight&hide_border=true&background=060614&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=a78bfa&dates=6b7280&stroke=7c3aed" width="55%" alt="Streak Stats"/>
 </picture>
 
 </div>
@@ -225,7 +185,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 🏆 &nbsp;GitHub Trophies
+## 🏆 GitHub Trophies
 
 <br/>
 
@@ -243,7 +203,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 📈 &nbsp;Contribution Graph
+## 📈 Contribution Graph
 
 <br/>
 
@@ -261,46 +221,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 💡 &nbsp;The Dev Behind The Code
-
-<br/>
-
-<div align="center">
-
-```javascript
-const dhyanesh = {
-  name     : "Dhyanesh Siddhartha",
-  role     : "Software Developer",
-  location : ["Noida", "Dehradun", "India 🇮🇳"],
-
-  focus    : [
-    "Full Stack Web Development",
-    "Backend Systems & Scalable APIs",
-    "Cloud Native Architecture",
-    "Microservices & Distributed Systems",
-  ],
-
-  learning : [
-    "Kubernetes & Helm",
-    "Terraform & IaC",
-    "Jenkins CI/CD",
-    "Go — by building real things",
-    "AWS Cloud Services",
-    "System Design Patterns",
-  ],
-
-  superpower : () => console.log("It works! But… why? 🤔"),
-  motto      : "Ship fast. Learn faster. Build things that scale. ⚡",
-};
-```
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## 🤝 &nbsp;Let's Connect
+## 🤝 Let's Connect
 
 <br/>
 
@@ -320,15 +241,14 @@ const dhyanesh = {
 
 <br/><br/>
 
-> *⚡ "The best infrastructure is the one nobody notices — because it just works."*
+> *"The best infrastructure is the one nobody notices — because it just works."*
 
 <br/>
 
-<!-- ░░░ FOOTER WAVE ░░░ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:060614,40:0d1b4b,70:130a2e,100:060614&height=150&section=footer&text=Thanks%20for%20stopping%20by!%20⚡&fontSize=18&fontColor=00d4ff&animation=twinkling&fontAlignY=72"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,40:7c3aed,100:0d1b4b&height=150&section=footer&text=Thanks%20for%20stopping%20by!%20⚡&fontSize=18&fontColor=ffffff&animation=twinkling&fontAlignY=72"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:060614,40:0d1b4b,70:130a2e,100:060614&height=150&section=footer&text=Thanks%20for%20stopping%20by!%20⚡&fontSize=18&fontColor=00d4ff&animation=twinkling&fontAlignY=72" alt="footer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:060614,40:0d1b4b,70:130a2e,100:060614&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=00d4ff&animation=twinkling&fontAlignY=75"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,40:7c3aed,100:0d1b4b&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=ffffff&animation=twinkling&fontAlignY=75"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:060614,40:0d1b4b,70:130a2e,100:060614&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=00d4ff&animation=twinkling&fontAlignY=75" alt="footer" width="100%"/>
 </picture>
 
 </div>
